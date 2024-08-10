@@ -18,11 +18,7 @@ These tracks play instead of the following:
 - Keep Your Heart (Remix)
 - Rush a Difficulty (Remix)
 
-You may customise your installation and replace the original or OutRun 2 versions instead. I have chosen to replace the remixed tracks where possible to keep the identity of OutRun 2, but you may choose to overwrite other versions so you can use them in arcade mode. Just rename the files to match the regular versions, eg. "01_Splash_wave.flac", "02_Magical_Sound_Shower.flac"... etc
-
-## Known Issues
-
-- The track previews before starting a race play the original tracks. This will be fixed later.
+You may customise your installation and replace the original or OutRun 2 versions instead. I have chosen to replace the remixed tracks where possible to keep the identity of OutRun 2, but you may choose to overwrite other versions so you can use them in arcade mode. Just rename the files to match the regular versions, eg. "01_Splash_wave.flac", "02_Magical_Sound_Shower.flac"... etc - and do the same for the "SEL" versions if you'd like the track selection menu to feature correct previews.
 
 ### Preview
 
