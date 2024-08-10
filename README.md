@@ -1,17 +1,16 @@
-# OutRun 2006 Music Mod
+# Iron's OutRun Music Mod
 
 Remasters of several music tracks for OutRun 2006.
 
-These were made originally made as cover tracks, but with growing interest in modding OutRun 2006, I have decided to make a simple mod to add my tracks to the game. I have remastered the tracks to be louder as the game's original tracks are heavily compressed, and I wanted to ensure consistency with the base game music.
-Note - these will overwrite the tracks in-game. If you want to keep a copy of the original tracks, rename or make a backup of the relevant OGG files or your sound folder.
+These were made originally made as cover tracks, but with growing interest in modding OutRun 2006, I have decided to make a simple mod to add my tracks to the game. I have remastered the tracks to ensure consistency with the base game music.
 
 ## Installation
 
-Download the latest release. Extract the music tracks (OGG files) to the Sound directory in your OutRun 2006 installation and overwrite the existing tracks.
+Download the latest release. Extract the music tracks (FLAC files) to the Sound directory in your OutRun 2006 installation. This will *not* overwrite the original tracks as they are in a different format.
 
 ## Description
 
-These tracks overwrite the following:
+These tracks play instead of the following:
 
 - Magical Sound Shower (Euro Mix)
 - Passing Breeze (Euro Mix)
@@ -19,13 +18,10 @@ These tracks overwrite the following:
 - Keep Your Heart (Remix)
 - Rush a Difficulty (Remix)
 
-You may customise your installation and replace the original or OutRun 2 versions instead. I have chosen to replace the remixed tracks where possible to ensure that the identity of OutRun 2 is not replaced, but you may choose to overwrite other versions so you can use them in arcade mode. Simply rename the files to match the regular versions, eg. "01_Splash_wave.ogg", "02_Magical_Sound_Shower.ogg"... etc
-
-The tracks are primarily designed to be faithful re-imaginings of the original tracks. Rush a Difficulty is a possible exception, as while it does closely stick to the feel of the original, the arrangement is mostly inspired by the OutRun 2006 remix and is functionally more of a modern remaster.
+You may customise your installation and replace the original or OutRun 2 versions instead. I have chosen to replace the remixed tracks where possible to keep the identity of OutRun 2, but you may choose to overwrite other versions so you can use them in arcade mode. Just rename the files to match the regular versions, eg. "01_Splash_wave.flac", "02_Magical_Sound_Shower.flac"... etc
 
 ## Known Issues
 
-- No true loop. The tracks have been extended to cover a full OutRun run, but if playing for a longer duration (eg. 15-stage) you will notice the song fade out and restart after about 7 minutes.
 - The track previews before starting a race play the original tracks. This will be fixed later.
 
 ### Preview
