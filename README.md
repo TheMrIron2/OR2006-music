@@ -1,8 +1,12 @@
-# Iron's OutRun Music Mod
+# Dan's Music Mod
 
 Remasters of several music tracks for OutRun 2006.
 
-These were made originally made as cover tracks, but with growing interest in modding OutRun 2006, I have decided to make a simple mod to add my tracks to the game. I have remastered the tracks to ensure consistency with the base game music.
+[Watch the trailer here!](https://youtu.be/8d0kIWHa1Do)
+
+![thumbnail](https://github.com/user-attachments/assets/a6d5680c-9c02-46e7-a5a2-87aab5accfa1)
+
+These were made originally made as cover tracks, but with recent interest in modding OR2006, I decided to make a simple mod to add my tracks to the game. I remastered the tracks to ensure consistency with the base game music.
 
 ## Installation
 
@@ -29,3 +33,5 @@ You can listen to all of the songs on [Spotify](https://open.spotify.com/album/3
 3. Splash Wave: [Spotify](https://open.spotify.com/track/4SdPbzUwbNQXfaGfqfsejI)
 4. Keep Your Heart: [Spotify](https://open.spotify.com/track/2B46P07ucKFKtWyXdQtDQd)
 5. Rush a Difficulty: [Spotify](https://open.spotify.com/track/5IpQrApdF42pWBJfWNfzuZ)
+
+Also on [Bandcamp](https://dwelch.bandcamp.com/album/outrun).
