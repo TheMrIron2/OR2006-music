@@ -26,12 +26,12 @@ You may customise your installation and replace the original or OutRun 2 version
 
 ### Preview
 
-You can listen to all of the songs on [Spotify](https://open.spotify.com/album/3TZdxB2uT5U9jbQxVIBVzi) or a streaming service of your choice if you would like to preview them outside of the game. I have provided the Spotify versions below - the rest of the YouTube versions are coming soon.
+You can listen to all of the songs on [Spotify](https://open.spotify.com/album/3TZdxB2uT5U9jbQxVIBVzi) or a streaming service of your choice if you would like to preview them outside of the game. I have provided the Spotify and YouTube links below.
 
-1. Magical Sound Shower: [Spotify](https://open.spotify.com/track/2LNBkFk4gLKaEqI4hjaZzW)
+1. Magical Sound Shower: [Spotify](https://open.spotify.com/track/2LNBkFk4gLKaEqI4hjaZzW), [YouTube](https://youtu.be/ZTHKsaFiar0)
 2. Passing Breeze: [Spotify](https://open.spotify.com/track/1h4ARVsCYVn0tvzy6U38Cj), [YouTube](https://youtu.be/KdvsDp6hBmY)
-3. Splash Wave: [Spotify](https://open.spotify.com/track/4SdPbzUwbNQXfaGfqfsejI)
-4. Keep Your Heart: [Spotify](https://open.spotify.com/track/2B46P07ucKFKtWyXdQtDQd)
-5. Rush a Difficulty: [Spotify](https://open.spotify.com/track/5IpQrApdF42pWBJfWNfzuZ)
+3. Splash Wave: [Spotify](https://open.spotify.com/track/4SdPbzUwbNQXfaGfqfsejI), [YouTube](https://youtu.be/hjqsza56TT0)
+4. Keep Your Heart: [Spotify](https://open.spotify.com/track/2B46P07ucKFKtWyXdQtDQd), [YouTube](https://youtu.be/Tkir1aecdTE)
+5. Rush a Difficulty: [Spotify](https://open.spotify.com/track/5IpQrApdF42pWBJfWNfzuZ), [YouTube](https://youtu.be/-sPKVGDC6Wk)
 
 Also on [Bandcamp](https://dwelch.bandcamp.com/album/outrun).
